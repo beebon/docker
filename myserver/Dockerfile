@@ -26,3 +26,4 @@ RUN yum install -y mariadb mariadb-server
 EXPOSE 80
 EXPOSE 6379
 EXPOSE 8080
+EXPOSE 3306
