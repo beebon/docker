@@ -17,9 +17,9 @@ docker run --privileged --rm -dit \
 docker exec -it myserver bash
 
 # start service in containner
-servcie nginx start
-service tomcat start
-service mariadb start
-service redis start
+    ## servcie nginx start
+    ## service tomcat start
+    ## service mariadb start
+    ## service redis start
 
 
